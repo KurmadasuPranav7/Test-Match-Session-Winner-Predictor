@@ -31,7 +31,5 @@ The model is trained on session-wise runs and wickets to classify the outcome as
 | Visualization | Matplotlib, Seaborn |
 | Dataset | Cricsheet JSONs (Test Matches) |
 
----
 
-## 📂 Project Structure
 
